@@ -1,6 +1,6 @@
 ---
 layout: page
-title: me
+title: Hi, I'm Max Spero.
 permalink: /me/
 ---
 
@@ -8,4 +8,4 @@ I'm currently a student at Stanford, finishing up my Bachelor's in Computer Scie
 
 I'm interested in deep learning and art, and have been working on projects that combine the two.
 
-
+You can contact me at [mmspero@gmail.com](mailto://mmspero@gmail.com)

@@ -1,5 +1,4 @@
-# urban-theme
+# maxspero.github.io
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
+This is my website. You can find it on maxspero.github.io or maxspero.com.
 
-Live-Demo: http://narkotyk.net/
