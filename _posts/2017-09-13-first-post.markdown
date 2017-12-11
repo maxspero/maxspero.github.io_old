@@ -3,7 +3,7 @@ layout: post
 title:  "Why I started a personal website"
 date:   2017-09-13 02:30:00
 preview: /assets/led_strip_reflection_square_small.jpg
-categories: art code
+categories: blog
 ---
 
 ![An LED strip in Mercedes-Benz Arena Berlin]({{site.base_url}}/assets/led_strip_reflection_wide_crop.jpg)

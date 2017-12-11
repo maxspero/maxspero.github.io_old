@@ -3,7 +3,7 @@ layout: post
 title:  "The Future of Bitcoin"
 date:   2017-12-10 17:23:00
 preview: /assets/bitcoin_price_square_logo.png
-categories: art code
+categories: blog
 ---
 
 ![A chart of Bitcoin's 40x rise in price over the past year]({{site.base_url}}/assets/bitcoin_price.png)
